@@ -51,8 +51,7 @@
 
 ## 2. OSI 7계층
 
-![스크린샷 2022-10-01 오후 4.20.55](/Users/mac/Desktop/스크린샷 2022-10-01 오후 4.20.55.png)
-
+<img width="637" alt="스크린샷 2022-10-01 오후 4 20 55" src="https://user-images.githubusercontent.com/52316270/197382070-798a3e9c-60f3-4b7b-a416-1f0def3ba27c.png">
 
 
 #### 2.1 OSI 7 계층을 나눈이유
@@ -136,8 +135,7 @@
 
 - TCP에서 패킷의 단위
 
-![스크린샷 2022-10-04 오후 9.19.04](/Users/mac/Desktop/스크린샷 2022-10-04 오후 9.19.04.png)
-
+<img width="584" alt="스크린샷 2022-10-04 오후 9 19 04" src="https://user-images.githubusercontent.com/52316270/197382082-f94c45b4-f2d4-4900-8446-e8e11f6a9cc2.png">
 
 
 #### 3.3 TCP 특징
@@ -167,9 +165,7 @@
 
 #### 3.6 비교
 
-![스크린샷 2022-10-04 오후 9.30.15](/Users/mac/Desktop/스크린샷 2022-10-04 오후 9.30.15.png)
-
-
+<img width="768" alt="스크린샷 2022-10-04 오후 9 30 15" src="https://user-images.githubusercontent.com/52316270/197382088-05ba9436-5702-4844-aad2-afcfab0bec6c.png">
 
 ---
 
